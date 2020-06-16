@@ -24,7 +24,7 @@ The website is built with Next.js, contains roadmaps which are the step by step 
 Clone the repository, install the dependencies and start the application
 
 ```bash
-git clone https://github.com/kamranahmedse/roadmap.sh
+git clone https://github.com/NimraPro/roadmap.sh
 yarn install
 yarn dev
 ```
